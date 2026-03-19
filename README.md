@@ -74,12 +74,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DUMMY_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## 🚀 Highlight Projects
@@ -98,7 +92,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://sumitprajapatiportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/></a>
-  <a href="sumit001prajapati@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:sumit001prajapati@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
